@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "QUEEN's Sanctuary",
+  "base_artist": "ヒプノシスマイク -D.R.B- Rule the Stage (Ideal and Reality All Cast)",
+  "createdAt": "2026-02-14T22:54:53.555906Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "QUEEN's Sanctuary",
+      "artist": "ヒプノシスマイク -D.R.B- Rule the Stage (Ideal and Reality All Cast)",
+      "has_synced": false,
+      "path": "select/pl_01_QUEEN's_Sanctuary_ヒプノシスマイク_-D.R.B-_Rule_the_Stage_(Ideal_and_Reality_All_Cast).txt"
+    }
+  ]
+}
